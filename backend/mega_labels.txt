@@ -1,0 +1,199 @@
+abyssinian
+affenpinscher
+afghan hound
+african hunting dog
+airedale
+american bobtail
+american bulldog
+american curl
+american pit bull terrier
+american shorthair
+american staffordshire terrier
+american wirehair
+appenzeller
+applehead siamese
+australian terrier
+balinese
+basenji
+basset
+basset hound
+beagle
+bedlington terrier
+bengal
+bernese mountain dog
+birman
+blenheim spaniel
+bloodhound
+bluetick
+bombay
+border collie
+border terrier
+borzoi
+boston bull
+bouvier des flandres
+boxer
+brabancon griffon
+briard
+british shorthair
+brittany spaniel
+bull mastiff
+burmese
+burmilla
+cairn
+calico
+canadian hairless
+cardigan
+chartreux
+chausie
+chesapeake bay retriever
+chihuahua
+chinchilla
+chow
+clumber
+coated retriever
+coated wheaten terrier
+cocker spaniel
+collie
+cornish rex
+cymric
+dandie dinmont
+devon rex
+dhole
+dilute calico
+dilute tortoiseshell
+dingo
+doberman
+domestic long hair
+domestic medium hair
+domestic short hair
+egyptian mau
+english cocker spaniel
+english foxhound
+english setter
+english springer
+entlebucher
+eskimo dog
+exotic shorthair
+extra-toes cat - hemingway polydactyl
+french bulldog
+german shepherd
+german shorthaired
+giant schnauzer
+golden retriever
+gordon setter
+great dane
+great pyrenees
+greater swiss mountain dog
+groenendael
+haired fox terrier
+haired pointer
+havana
+havanese
+himalayan
+ibizan hound
+irish setter
+irish terrier
+irish water spaniel
+irish wolfhound
+italian greyhound
+japanese bobtail
+japanese chin
+japanese spaniel
+javanese
+keeshond
+kelpie
+kerry blue terrier
+komondor
+korat
+kuvasz
+labrador retriever
+lakeland terrier
+laperm
+leonberg
+leonberger
+lhasa
+maine coon
+malamute
+malinois
+maltese dog
+manx
+mexican hairless
+miniature pinscher
+miniature poodle
+miniature schnauzer
+munchkin
+nebelung
+newfoundland
+norfolk terrier
+norwegian elkhound
+norwegian forest cat
+norwich terrier
+ocicat
+old english sheepdog
+oriental long hair
+oriental short hair
+oriental tabby
+otterhound
+papillon
+pekinese
+pembroke
+persian
+pixiebob
+pomeranian
+pug
+ragamuffin
+ragdoll
+redbone
+rhodesian ridgeback
+rottweiler
+russian blue
+saint bernard
+saluki
+samoyed
+schipperke
+scotch terrier
+scottish deerhound
+scottish fold
+scottish terrier
+sealyham terrier
+selkirk rex
+shetland sheepdog
+shiba inu
+siamese
+siberian
+siberian husky
+silky terrier
+silver
+singapura
+snowshoe
+somali
+sphynx
+sphynx - hairless cat
+staffordshire bull terrier
+staffordshire bullterrier
+standard poodle
+standard schnauzer
+sussex spaniel
+tabby
+tan coonhound
+tibetan mastiff
+tibetan terrier
+tiger
+tonkinese
+torbie
+tortoiseshell
+toy poodle
+toy terrier
+turkish angora
+turkish van
+tuxedo
+tzu
+vizsla
+walker hound
+weimaraner
+welsh springer spaniel
+west highland white terrier
+wheaten terrier
+whippet
+york chocolate
+yorkshire terrier
