@@ -13,7 +13,8 @@ import * as ImagePicker from 'expo-image-picker';
 import axios from 'axios';
 import { Ionicons } from '@expo/vector-icons';
 
-const BACKEND_URL = 'http://192.168.108.58:8000/upload-photo/';
+const BACKEND_URL = 'https://petsense-api.onrender.com/upload-photo/';
+{/*const BACKEND_URL = 'http://192.168.108.58:8000/upload-photo/';*/}
 {/*192.168.108.58    192.168.0.102*/}
 
 const BreedRecognitionScreen = ({ navigation }) => {
